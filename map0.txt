@@ -1,0 +1,13 @@
+12
+0 0 0 W W W B B B S S S
+0 0 0 0 0 0 0 0 0 0 0 0
+0 S p T T T T B B W W T
+0 0 0 0 0 0 0 0 0 0 0 0
+B B B B W T T T T T T T
+B B B W W W W 0 0 0 0 0
+0 0 0 0 S S S S S T W W
+0 0 0 0 0 0 0 0 0 0 0 0
+B W W W T T T T W S S S
+0 0 0 0 0 0 0 0 0 0 0 0
+T T T T T W S B B B B B
+0 T B B S S T T W W 0 0
